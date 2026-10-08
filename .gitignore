@@ -1,0 +1,20 @@
+# 下载的驱动文件（脚本输出目录）
+downloads/
+
+# 生成的清单 / 报告等产物
+manifest.json
+dry_run_report.txt
+*.part
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编辑器 / 系统文件
+.DS_Store
+.idea/
+.vscode/
